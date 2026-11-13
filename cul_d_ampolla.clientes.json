@@ -1,5 +1,7 @@
 [{
-  "_id": "01",
+  "_id": {
+    "$oid": "6af7556ab444577c31e91308"
+  },
   "nombre": "Jose Bermejo",
   "direccion": "Rupert Lladó 32, 08980, Sant Feliu de Llobregat",
   "teléfono": "659659659",

@@ -1,5 +1,7 @@
 [{
-  "_id": "gafa_01",
+  "_id": {
+    "$oid": "6af755b1b444577c31e9130a"
+  },
   "marca": "RayBan",
   "tipo_montura": "Pasta",
   "color_montura": "Negra",
@@ -29,7 +31,9 @@
   },
   "comprado_por": [
     {
-      "cliente_id": "01",
+      "cliente_id": {
+        "$oid": "6af7556ab444577c31e91308"
+      },
       "nombre_cliente": "Jose Bermejo",
       "fecha_venta": {
         "$date": "2023-09-23T11:30:00.000Z"
