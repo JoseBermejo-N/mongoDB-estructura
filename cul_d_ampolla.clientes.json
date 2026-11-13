@@ -1,0 +1,27 @@
+[{
+  "_id": "01",
+  "nombre": "Jose Bermejo",
+  "direccion": "Rupert Lladó 32, 08980, Sant Feliu de Llobregat",
+  "teléfono": "659659659",
+  "email": "bermejo@test.com",
+  "fecha_registro": "2023-09-23",
+  "recomendado_por_id": null,
+  "ultimas_compras": [
+    {
+      "marca": "Rayban",
+      "graduacion": {
+        "L": 1.25,
+        "R": 2
+      },
+      "color_cristal": {
+        "L": "transparente",
+        "R": "transparente"
+      },
+      "tipo_montura": "Pasta",
+      "color_montura": "Negra",
+      "precio": 133,
+      "fecha_venta": "2023-09-25T11:30:00Z",
+      "empleado": "Albert López"
+    }
+  ]
+}]

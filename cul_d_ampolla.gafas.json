@@ -1,0 +1,38 @@
+[{
+  "_id": "gafa_01",
+  "marca": "RayBan",
+  "tipo_montura": "Pasta",
+  "color_montura": "Negra",
+  "graduacion": {
+    "L": 1.25,
+    "R": 2
+  },
+  "color_cristal": {
+    "L": "transparente",
+    "R": "transparente"
+  },
+  "precio": 105.75,
+  "proveedor": {
+    "nif": "B12345678",
+    "nombre": "Todogafas SL",
+    "direccion": {
+      "calle": "Industria",
+      "numero": "12",
+      "piso": "2",
+      "puerta": "B",
+      "ciudad": "Barcelona",
+      "codigo_postal": "08025",
+      "pais": "España"
+    },
+    "telefono": "934445566",
+    "fax": "934445567"
+  },
+  "comprado_por": [
+    {
+      "cliente_id": "01",
+      "nombre_cliente": "Jose Bermejo",
+      "fecha_venta": "2023-09-25T11:30:00Z",
+      "empleado": "Albert López"
+    }
+  ]
+}]
