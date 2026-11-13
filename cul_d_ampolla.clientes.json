@@ -4,7 +4,9 @@
   "direccion": "Rupert Lladó 32, 08980, Sant Feliu de Llobregat",
   "teléfono": "659659659",
   "email": "bermejo@test.com",
-  "fecha_registro": "2023-09-23",
+  "fecha_registro": {
+    "$date": "2023-09-23T11:30:00.000Z"
+  },
   "recomendado_por_id": null,
   "ultimas_compras": [
     {

@@ -31,7 +31,9 @@
     {
       "cliente_id": "01",
       "nombre_cliente": "Jose Bermejo",
-      "fecha_venta": "2023-09-25T11:30:00Z",
+      "fecha_venta": {
+        "$date": "2023-09-23T11:30:00.000Z"
+      },
       "empleado": "Albert López"
     }
   ]
